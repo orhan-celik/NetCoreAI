@@ -1,4 +1,4 @@
-# Proje Kurulum Rehberi
+# Proje 01 Kurulum Rehberi
 
 Bu proje, **SQL Server 2022** veritabanı üzerinde çalışmaktadır. Veritabanını hızlıca başlatmak için Docker kullanılmaktadır.
 
